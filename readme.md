@@ -1,4 +1,4 @@
-# homepage template
+# test
 
 ```
 npm i
